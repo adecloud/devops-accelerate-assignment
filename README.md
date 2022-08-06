@@ -11,4 +11,4 @@
 
 - **Note**: Workflow should: 
     - Run an Ubuntu Image
-    - Print the OS name , list all files in the repository, output any other va
+    - Print the OS name , list all files in the repository, output any other vaue
